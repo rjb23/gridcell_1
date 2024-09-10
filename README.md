@@ -1,0 +1,1 @@
+This program demonstrates the structure for visualizing grid cells based on user input. Remember to replace the synthetic data generation with your actual data loading logic when working with real datasets.
